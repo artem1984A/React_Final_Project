@@ -103,4 +103,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to modify the content to suit the exact needs of your project. Let me know if you need any further adjustments!
+
+It was my finil project for certificated Front-End Developer in WincAcademy (https://www.wincacademy.nl).
  
