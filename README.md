@@ -2,6 +2,10 @@ React Event Management Application
 
 This is a React-based event management application. It allows users to view, create, edit, and delete events. The application features components for managing events, a navigation bar, and pages to display individual event details.
 
+Project used as data events.json file , which should be running by json-server:
+
+json-server events.json
+
 Table of Contents
 
 	•	Prerequisites
