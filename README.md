@@ -106,3 +106,5 @@ Feel free to modify the content to suit the exact needs of your project. Let me 
 
 It was my finil project for certificated Front-End Developer in WincAcademy (https://www.wincacademy.nl).
  
+New version of this project can be seen at https://www.ryzhov.website/home/ 
+(There are using MongoBD, Redis and added some more functionalites)
